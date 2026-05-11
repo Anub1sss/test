@@ -1,0 +1,17 @@
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  color: #22170f;
+  background:
+    radial-gradient(circle at 8% 0%, rgba(255, 192, 120, 0.35), transparent 28rem),
+    linear-gradient(135deg, #fff7ec 0%, #f3eee8 44%, #e8f3f0 100%);
+  font-family: Inter, Roboto, "Helvetica Neue", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
